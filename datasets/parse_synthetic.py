@@ -33,7 +33,7 @@ Is the above passage relevant to the aforementioned question?
 Answer with yes or no.
 """
 
-llm = ChatOpenAI(temperature=0.0, 
+llm = ChatOpenAI(temperature=0.7, 
                   max_tokens=4096,
                   model_name="gpt-4o",
                   )
