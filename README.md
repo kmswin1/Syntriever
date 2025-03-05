@@ -2,7 +2,7 @@
 Syntriever: How to Train Your Retriever with Synthetic Data from LLMs
 
 
-For large scale dataset, we recommend using [batch api](https://platform.openai.com/docs/guides/batch).
+For large scale synthetic data generation, we recommend using [batch api](https://platform.openai.com/docs/guides/batch).
 ```
 ## Synthetic Data Generation for Stage 1 (After Download datasets by BEIR, dataset=msmarco, hotpotqa, fiqa, scifact, nfcorpus)
 cd datasets
